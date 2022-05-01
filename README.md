@@ -5,6 +5,6 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
 
 ## **Day 1** :-
  
-1. [**BIG O NOTATION**] (Big O Notation/README.md#BIG-O-NOTATION)
+1. [**BIG O NOTATION**](Big-O-Notation/README.md#BIG-O-NOTATION)
 
 
