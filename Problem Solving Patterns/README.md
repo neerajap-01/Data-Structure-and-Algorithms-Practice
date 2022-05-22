@@ -15,7 +15,6 @@ A way of solving a DSA problem questions
 - Backtracking
 - **Many more!** 
 
-<br />
 
 ## FREQUENCY COUNTERS 
 
@@ -23,10 +22,7 @@ This pattern uses objects or sets to collect values/frequencies of values
 
 This can often avoid the need for nested loops or O(N^2) operations with arrays / strings
 
-<br />
-
 ### AN EXAMPLE
-<br />
 
 1. Write a function called **same**, which accepts two arrays. The function should return true if every value in the array has it's corresponding value squared in the second array. The frequency of values must be the same.
 
@@ -53,9 +49,7 @@ This can often avoid the need for nested loops or O(N^2) operations with arrays 
         return true
     }
     ```
-    **Time Complexity - O(N^2)**
-    <br />
-    <br />
+    **Time Complexity - O(N^2)** 
 
     ### A REFACTORED SOLUTION
 
@@ -84,9 +78,7 @@ This can often avoid the need for nested loops or O(N^2) operations with arrays 
     }
     ```
 
-    **Time Complexity - O(n)**
-    <br />
-    <br />
+    **Time Complexity - O(n)**  
 
 2. Given two strings, write a function to determine if the second string is an anagram of the first. An anagram is a word, phrase, or name formed by rearranging the letters of another, such as *cinema*, formed from *iceman*.
 
@@ -99,7 +91,6 @@ This can often avoid the need for nested loops or O(N^2) operations with arrays 
     validAnagram('qwerty', 'qeywrt') // true
     validAnagram('texttwisttime', 'timetwisttext') // true
     ```
-    <br />
 
     ### A REFACTORED SOLUTION
 
@@ -127,9 +118,7 @@ This can often avoid the need for nested loops or O(N^2) operations with arrays 
     }
     ```
 
-    **Time Complexity - O(n)**
-    <br />
-    <br />
+    **Time Complexity - O(n)**   
 
 ##  Multiple Pointers
 
@@ -137,10 +126,7 @@ Creating **pointers** or values that correspond to an index or position and move
 
 **Very** efficient for solving problems with minimal space complexity as well
 
-<br />
-
 ### AN EXAMPLE
-<br />
 
 1. Write a function called **sumZero** which accepts a **sorted** array of integers. The function should find the **first** pair where the sum is 0. Return an array that includes both values that sum to zero or undefined if a pair does not exist
 
@@ -196,7 +182,7 @@ Creating **pointers** or values that correspond to an index or position and move
     countUniqueValues([]) // 0
     countUniqueValues([-2,-1,-1,0,1]) // 4
     ```
-    <br />
+    
 
     ### A REFACTORED SOLUTION
 
@@ -218,8 +204,6 @@ Creating **pointers** or values that correspond to an index or position and move
 
     **Time Complexity - O(n)**
 
-<br />
-
 ## SLIDING WINDOW
 
 This pattern involves creating a **window** which can either be an array or number from one position to another
@@ -227,8 +211,6 @@ This pattern involves creating a **window** which can either be an array or numb
 Depending on a certain condition, the window either increases or closes (and a new window is created)
 
 Very useful for keeping track of a subset of data in an array/string etc.
-
-<br />
 
 ### An Example
 
@@ -241,7 +223,6 @@ maxSubarraySum([4,2,1,6],1) // 6
 maxSubarraySum([4,2,1,6,2],4) // 13
 maxSubarraySum([],4) // null
 ```
-<br />
 
 ### A NAIVE SOLUTION
 
@@ -265,8 +246,6 @@ function maxSubarraySum(arr, num) {
 ```
  **Time Complexity - O(N^2)**
 
-<br />
-
 ### A REFACTORED SOLUTION
 
 ```
@@ -288,19 +267,13 @@ function maxSubarraySum(arr, num){
 
 **Time Complexity - O(n)**
 
-<br />
-
 ## DIVIDE AND CONQUER
 
 This pattern involves dividing a data set into smaller chunks and then repeating a process with a subset of data.
 
 This pattern can tremendously **decrease time complexity**
 
-<br />
-
 ### An Example
-
-<br />
 
 Given a **sorted** array of integers, write a function called search, that accepts a value and returns the index where the value passed to the function is located. If the value is not found, return -1
 
@@ -309,8 +282,6 @@ search([1,2,3,4,5,6],4) // 3
 search([1,2,3,4,5,6],6) // 5
 search([1,2,3,4,5,6],11) // -1
 ```
-
-<br />
 
 ### A NAIVE SOLUTION
 
@@ -327,8 +298,6 @@ function search(arr, val){
 Linear Search
 
 **Time Complexity O(N)**
-
-<br />
 
 ### A REFACTORED SOLUTION
 
@@ -358,8 +327,6 @@ function search(array, val) {
 ```
 
 **Time Complexity - Log(N) - Binary Search!**
-
-<br />
 
 ## Recap
 
