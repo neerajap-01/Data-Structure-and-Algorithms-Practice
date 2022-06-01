@@ -13,5 +13,7 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
 
 4. [**Problem Solving Patterns**](Problem%20Solving%20Patterns/README.md#PROBLEM%20SOLVING%20PATTERNS)
 
+5. [**Recursion**](Recursion/README.md#Recursion)
+
 
 
