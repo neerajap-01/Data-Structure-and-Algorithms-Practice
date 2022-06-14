@@ -90,6 +90,7 @@ Short string: ***omg***
 - The Knutt-Morris-Pratt algorithm offers an improvement over the naive approach
 - Published in 1977
 - This algorithm more intelligently traverses the longer string to reduce the amount of redundant searching
+- If you don't know KMP I highly recommend to watch [this](https://youtu.be/V5-7GzOfADQ) first
 
 ### Prefixes and Suffixes
 
