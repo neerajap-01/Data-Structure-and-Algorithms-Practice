@@ -17,5 +17,7 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
 
 6. [**Searching Algorithms**](Searching%20Algorithms/README.md#Searching%20Algorithms)
 
+7. [**Sorting Algorithms**](Sorting%20Algorithms/README.md#Elementary%20Sorting%20Algorithms)
 
+    - [**Bubble Sort**](Sorting%20Algorithms/README.md#Bubble%20Sort)
 
