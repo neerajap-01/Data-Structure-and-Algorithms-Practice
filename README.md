@@ -15,5 +15,7 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
 
 5. [**Recursion**](Recursion/README.md#Recursion)
 
+6. [**Searching Algorithms**](Searching%20Algorithms/README.md#Searching%20Algorithms)
+
 
 
