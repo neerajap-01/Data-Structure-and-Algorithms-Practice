@@ -6,10 +6,10 @@ A way of solving a DSA problem questions
 
 ## SOME PATTERNS...
 
-- [Frequency Counter](#FREQUENCY%20COUNTERS)
-- [Multiple Pointers](#MULTIPLE%20POINTERS)
-- [Sliding Window](#SLIDING%20WINDOW)
-- [Divide and Conquer](#DIVIDE%20AND%20CONQUER)
+- Frequency Counter
+- Multiple Pointers
+- Sliding Window
+- Divide and Conquer
 - Dynamic Programming
 - Greedy Algorithms
 - Backtracking

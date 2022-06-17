@@ -147,6 +147,40 @@ Using this website to understand any sorting algorithms working [VISUALGO](https
 - If the "minimum" is not the value (index) you initially began with, swap the two values.
 - Repeat this with the next element until the array is sorted.
 
+### A Navie Approach
+```
+function navieSelectionSort(arr) {
+  for(let i = 0; i < arr.length-1; i++){
+    let minIndex = i;
+    for(let j = i+1; j < arr.length; j++){
+      if(arr[j] < arr[minIndex]){
+        minIndex = j;
+      }
+    }
+    [arr[i],arr[minIndex]] = [arr[minIndex],arr[i]]
+  }
+  return arr;
+}
+```
+
+### Optimized Approach
+```
+function navieSelectionSort(arr) {
+  for(let i = 0; i < arr.length-1; i++){
+    let minIndex = i;
+    for(let j = i+1; j < arr.length; j++){
+      if(arr[j] < arr[minIndex]){
+        minIndex = j;
+      }
+    }
+    if(i !== minIndex){
+      [arr[i],arr[minIndex]] = [arr[minIndex],arr[i]]
+    }
+  }
+  return arr;
+}
+```
+
 # Insertion Sort
 
 Builds up the sort by gradually creating a larger left half which is always sorted.
@@ -159,6 +193,20 @@ Using this website to understand any sorting algorithms working [VISUALGO](https
 - Now compare the second element with the one before it and swap if necessary.
 - Continue to the next element and if it is in the incorrect order, iterate through the sorted portion (i.e. the left side) to place the element in the correct place.
 - Repeat until the array is sorted.
+
+### Optimized Approach
+```
+function insertionSort(arr) {
+  for(let i = 1; i < arr.length; i++) {
+    let currentVal = arr[i];
+    for (var j = i-1; j >= 0 && arr[j] > currentVal; j--) {
+      arr[j+1] = arr[j]
+    }
+    arr[j+1] = currentVal
+  }
+  return arr
+}
+```
 
 ## Big O of Sorting Algorithms
 
