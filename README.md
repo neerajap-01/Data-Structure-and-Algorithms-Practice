@@ -13,10 +13,10 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
 
 4. [**Problem Solving Patterns**](Problem%20Solving%20Patterns/README.md#PROBLEM%20SOLVING%20PATTERNS)
 
-    - [Frequency Counter](Problem%20Solving%20Patterns/README.md#FREQUENCY%20COUNTERS)
-    - [Multiple Pointers](Problem%20Solving%20Patterns/README.md#MULTIPLE%20POINTERS)
-    - [Sliding Window](Problem%20Solving%20Patterns/README.md#SLIDING%20WINDOW)
-    - [Divide and Conquer](Problem%20Solving%20Patterns/README.md#DIVIDE%20AND%20CONQUER)
+    - [**Frequency Counter**](Problem%20Solving%20Patterns/README.md#FREQUENCY%20COUNTERS)
+    - [**Multiple Pointers**](Problem%20Solving%20Patterns/README.md#MULTIPLE%20POINTERS)
+    - [**Sliding Window**](Problem%20Solving%20Patterns/README.md#SLIDING%20WINDOW)
+    - [**Divide and Conquer**](Problem%20Solving%20Patterns/README.md#DIVIDE%20AND%20CONQUER)
 
 
 5. [**Recursion**](Recursion/README.md#Recursion)
@@ -28,7 +28,7 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
     - [**Bubble Sort**](Elementary%20Sorting%20Algorithms/README.md#Bubble%20Sort)
     - [**Selection Sort**](Elementary%20Sorting%20Algorithms/README.md#Selection%20Sort)
     - [**Insertion Sort**](Elementary%20Sorting%20Algorithms/README.md#Insertion%20Sort)
-    
+
 
 7. [**Intermediate Sorting Algorithms**](Intermediate%20Sorting%20Algorithms/README.md#Intermediate%20Sorting%20Algorithms)
 
