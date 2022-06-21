@@ -46,7 +46,7 @@ We have to loop each and every element of the array in order to find 12 from the
 - Binary search is a much faster form of search
 - Rather than eliminating one element at a time, you can eliminate ***half*** of the remaining elements at a time
 - Binary search only works on ***sorted*** arrays!
-## Divide and Conquer
+### Divide and Conquer
 
 Let's search for 15:
 ```

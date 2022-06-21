@@ -23,6 +23,10 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
 
 6. [**Searching Algorithms**](Searching%20Algorithms/README.md#searching-algorithms)
 
+    - [**Linear Search**](Searching%20Algorithms/README.md#linear-search)
+    - [**Binary Search**](Searching%20Algorithms/README.md#binary-search)
+    - [**KMP String Search**](Searching%20Algorithms/README.md#kmp-string-search)
+
 7. [**Elementary Sorting Algorithms**](Elementary%20Sorting%20Algorithms/README.md#elementary-sorting-algorithms)
 
     - [**Bubble Sort**](Elementary%20Sorting%20Algorithms/README.md#bubble-sort)
@@ -30,8 +34,14 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
     - [**Insertion Sort**](Elementary%20Sorting%20Algorithms/README.md#insertion-sort)
 
 
-7. [**Intermediate Sorting Algorithms**](Intermediate%20Sorting%20Algorithms/README.md#intermediate-sorting-algorithms)
+8. [**Intermediate Sorting Algorithms**](Intermediate%20Sorting%20Algorithms/README.md#intermediate-sorting-algorithms)
 
     - [**Merge Sort**](Intermediate%20Sorting%20Algorithms/README.md#merge-sort)
     - [**Quick Sort**](Intermediate%20Sorting%20Algorithms/README.md#quick-sort)
     - [**Radix Sort**](Intermediate%20Sorting%20Algorithms/README.md#radix-sort)
+
+9. [**DATA STRUCTURES**](Data%20Structures/README.md#data-structures)
+
+    - [**ES2015 CLASS**](Data%20Structures/README.md#es2015-class-syntax)
+
+
