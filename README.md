@@ -40,8 +40,19 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
     - [**Quick Sort**](Intermediate%20Sorting%20Algorithms/README.md#quick-sort)
     - [**Radix Sort**](Intermediate%20Sorting%20Algorithms/README.md#radix-sort)
 
-9. [**DATA STRUCTURES**](Data%20Structures/README.md#data-structures)
+9. [**Data Structures**](Data%20Structures/README.md#data-structures)
 
-    - [**ES2015 CLASS**](Data%20Structures/README.md#es2015-class-syntax)
+    - [**ES2015 Class**](Data%20Structures/ES2015%20Class/README.md#es2015-class-syntax)
+    - [**Singly Linked List**](Data%20Structures/Singly%20Linked%20List/README.md#singly-linked-lists)
 
+        - [**PREREQUISITES**](Data%20Structures/Singly%20Linked%20List/README.md#prerequisites)
+        - [**Pushing**](Data%20Structures/Singly%20Linked%20List/README.md#pushing)
+        - [**Popping**](Data%20Structures/Singly%20Linked%20List/README.md#popping)
+        - [**Shifting**](Data%20Structures/Singly%20Linked%20List/README.md#shifting)
+        - [**Unshifting**](Data%20Structures/Singly%20Linked%20List/README.md#unshifting)
+        - [**Get**](Data%20Structures/Singly%20Linked%20List/README.md#get)
+        - [**Set**](Data%20Structures/Singly%20Linked%20List/README.md#set)
+        - [**Insert**](Data%20Structures/Singly%20Linked%20List/README.md#insert)
+        - [**Remove**](Data%20Structures/Singly%20Linked%20List/README.md#remove)
+        - [**Reverse**](Data%20Structures/Singly%20Linked%20List/README.md#reverse)
 
