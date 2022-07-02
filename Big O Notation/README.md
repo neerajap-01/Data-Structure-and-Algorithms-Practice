@@ -28,6 +28,11 @@ We say that an algorithm is O(f(n)) if the number of simple operations the compu
 - Variable assignment is constant
 - Accessing elements in an array (by index) or object (by key) is constant
 - In a loop, the the complexity is the length of the loop times the complexity of whatever happens inside of the loop
+
+## Big O Chart
+
+![image](https://user-images.githubusercontent.com/88912160/176999598-91454e88-438b-4a17-80bb-d17a467ac983.png)
+
 # Space Complexity
 
 We can also use big O notation to analyze space complexity: how much additional memory do we need to allocate in order to run the code in our algorithm?
@@ -48,6 +53,9 @@ Unless otherwise noted, when we talk about space complexity, technically we'll b
 ## Logarithm
 
 The logarithm of a number roughly measures the number of times you can divide that number by 2 before you get a value that's less than or equal to one.
+
+![image](https://user-images.githubusercontent.com/88912160/176999630-09b92b8f-e51a-4629-b430-4d84a5a281d9.png)
+
 ## Recap
 
 - To analyze the performance of an algorithm, we use Big O Notation
