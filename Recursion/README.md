@@ -156,12 +156,7 @@ function sumRange(num){
 
 sumRange(5)
 ```
-| sumRange(1) |\
-| sumRange(2) |\
-| sumRange(3) |\
-| sumRange(4) |\
-| sumRange(5) |\
-| ______________ | 
+![sumRange with the call stack](https://user-images.githubusercontent.com/88912160/176999897-6e83a49f-f4c9-4897-afba-9e1859c6571b.gif)
 
 ## Another example
 
@@ -274,10 +269,7 @@ power(3,3) //27
 ```
 
 ### HINT!
-2^3  = 2 * **2^2**\
-**2^2** = 2 *  **2^1**\
-**2^1**  = 2 * **2^0** \
-**2^0** = 1
+![image](https://user-images.githubusercontent.com/88912160/176999984-359db271-52c6-4169-b3f1-7ee1c59713fe.png)
 
 ### 2. productOfArray
 Write a function called productOfArray which takes in an array of numbers and returns the product of them all.
