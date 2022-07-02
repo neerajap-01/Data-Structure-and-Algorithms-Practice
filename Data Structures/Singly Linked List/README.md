@@ -14,9 +14,10 @@ A brief description of Singly Linked Lists in this readme file.
 A data structure that contains a **head**, **tail** and **length** property.
 
 Linked Lists consist of nodes, and each **node** has a **value** and a **pointer** to another node or null
+
 ## Singly Linked Lists
 
-<h1 align='center>Photos, comming soon...</h1> 
+![image](https://user-images.githubusercontent.com/88912160/176999291-0ba72ec7-0dd6-433c-a379-d7581ab26834.png)
 
 
 ## Comparisons with Arrays
@@ -779,7 +780,8 @@ var list = new SinglyLinkedList()
 Reversing the Linked List **in place!**
 ## REVERSING A SINGLY LINKED LIST
 
-<h1 align='center>GIF, comming soon...</h1>
+![Reversing-a-singly-linked-list](https://user-images.githubusercontent.com/88912160/176999512-b1ebe288-063e-40f3-be62-ff22731bc80c.gif)
+
 ## Reverse pseudocode
 
 - Swap the head and tail
