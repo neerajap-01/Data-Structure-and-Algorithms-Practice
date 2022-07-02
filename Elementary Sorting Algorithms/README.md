@@ -94,6 +94,9 @@ const swap = (arr, idx1, idx2) => {
 A sorting algorithm where the largest values bubble up to the top!
 
 Using this website to understand any sorting algorithms working [VISUALGO](https://visualgo.net/en/sorting)
+
+![bubble-sort](https://user-images.githubusercontent.com/88912160/177001138-d91b3b8b-f810-4433-a2d8-2bb4349c9673.gif)
+
 ## BubbleSort Pseudocode
 
 - Start looping from with a variable called i the end of the array towards the beginning
@@ -138,6 +141,8 @@ function bubbleSortNum(arr){
 Similar to bubble sort, but instead of first placing large values into sorted position, it places small values into sorted position
 
 Using this website to understand any sorting algorithms working [VISUALGO](https://visualgo.net/en/sorting)
+
+![selection-sort](https://user-images.githubusercontent.com/88912160/177001188-feb729dc-35bb-465a-903a-88a5d9cd408a.gif)
 
 ## Selection Sort Pseudocode
 
@@ -186,6 +191,8 @@ function navieSelectionSort(arr) {
 Builds up the sort by gradually creating a larger left half which is always sorted.
 
 Using this website to understand any sorting algorithms working [VISUALGO](https://visualgo.net/en/sorting)
+
+![Insertion-sort](https://user-images.githubusercontent.com/88912160/177001227-a5a4e0a5-41be-46ba-bc70-d070f7fbdb80.gif)
 
 ## Insertion Sort Pseudocode
 
