@@ -28,6 +28,9 @@ A brief description of all the Elementary Sorting Algorithms are in this readme 
 ## How does it work?
 
 Using this website to understand any sorting algorithms working [VISUALGO](https://visualgo.net/en/sorting)
+
+![merge-sort](https://user-images.githubusercontent.com/88912160/177001469-3fa0bf89-ffde-4c49-8207-0427d8ec1511.gif)
+
 ## Merging Arrays
 
 - In order to implement merge sort, it's useful to first implement a function responsible for merging two sorted arrays
@@ -73,6 +76,8 @@ function merge(arr1,arr2) {
 - Once you have smaller sorted arrays, merge those arrays with other sorted arrays until you are back at the full length of the array
 - Once the array has been merged back together, return the merged (and sorted!) array
 
+![merge-sort](https://user-images.githubusercontent.com/88912160/177001541-3e95c779-35d6-4514-9b8a-ccfc20b55acc.gif)
+
 ```
 function mergeSort(arr) {
   if(arr.length <= 1) return arr;
@@ -88,9 +93,8 @@ function mergeSort(arr) {
 | ---------------------- | ------------------------- | ----------------------- | ---------------- |
 | O(*n* log *n*)         | O(*n* log *n*)            | O(*n* log *n*)          | O(*n*)           |
 
-***Why???***
+![image](https://user-images.githubusercontent.com/88912160/177001577-95ac2e41-9673-4aed-bc73-d3a52402467c.png)
 
-**O(log *n*) decompositions** & **O(*n*) comparisons per decomposition**
 ## Quick Sort
 
 - Like merge sort, exploits the fact that arrays of 0 or 1 element are always sorted
@@ -100,6 +104,9 @@ function mergeSort(arr) {
 ## How does it work?
 
 Using this website to understand any sorting algorithms working [VISUALGO](https://visualgo.net/en/sorting)
+
+![quick-sort](https://user-images.githubusercontent.com/88912160/177001618-043d9e1c-9998-4c53-a12d-f5f0022d09eb.gif)
+
 ## Pivot Helper
 
 - In order to implement merge sort, it's useful to first implement a function responsible arranging elements in an array on either side of a pivot
@@ -180,13 +187,8 @@ function quickSort(arr,left = 0, right = arr.length-1) {
 | ---------------------- | ------------------------- | ----------------------- | ---------------- |
 | O(*n* log *n*)         | O(*n* log *n*)            | O(*n^2*)                | O(*n*)           |
 
-***Why???***
+![quick-sort](https://user-images.githubusercontent.com/88912160/177001720-b893f2f0-d015-4efc-a3e3-45054c253793.gif)
 
-Best Case:- 
-**O(log *n*) decompositions** & **O(*n*) comparisons per decomposition**
-
-Worst Case:- 
-**O(*n*) decompositions** & **O(*n*) comparisons per decomposition**
 ## COMPARISON SORTS
 
 ### Average Time Complexity
@@ -218,6 +220,9 @@ More digits means a bigger number!
 ## How does it work?
 
 Using this website to understand any sorting algorithms working [VISUALGO](https://visualgo.net/en/sorting)
+
+![radix-sort](https://user-images.githubusercontent.com/88912160/177001804-0ff3bf22-0de3-4efa-b261-198f1ffc2f37.gif)
+
 ## RADIX SORT HELPERS
 
 In order to implement radix sort, it's helpful to build a few helper functions first:
