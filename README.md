@@ -56,3 +56,16 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
         - [**Remove**](Data%20Structures/Singly%20Linked%20List/README.md#remove)
         - [**Reverse**](Data%20Structures/Singly%20Linked%20List/README.md#reverse)
 
+    - [**Doubly Linked List**](Data%20Structures/Doubly%20Linked%20List/README.md#doubly-linked-lists)
+
+        - [**PREREQUISITES**](Data%20Structures/Doubly%20Linked%20List/README.md#prerequisites)
+        - [**Pushing**](Data%20Structures/Doubly%20Linked%20List/README.md#pushing)
+        - [**Popping**](Data%20Structures/Doubly%20Linked%20List/README.md#popping)
+        - [**Shifting**](Data%20Structures/Doubly%20Linked%20List/README.md#shifting)
+        - [**Unshifting**](Data%20Structures/Doubly%20Linked%20List/README.md#unshifting)
+        - [**Get**](Data%20Structures/Doubly%20Linked%20List/README.md#get)
+        - [**Set**](Data%20Structures/Doubly%20Linked%20List/README.md#set)
+        - [**Insert**](Data%20Structures/Doubly%20Linked%20List/README.md#insert)
+        - [**Remove**](Data%20Structures/Doubly%20Linked%20List/README.md#remove)
+        - [**Reverse**](Data%20Structures/Doubly%20Linked%20List/README.md#reverse)
+

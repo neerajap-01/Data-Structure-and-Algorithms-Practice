@@ -42,7 +42,8 @@ class SinglyLinkedList{
     return this;
   }
 
-  //Traverse or loop on a Singly Linked list
+///!Traverse
+//Traverse or loop on a Singly Linked list
   traverse(){
     //First we'll get the first element from the head and assign it to a variable
     let current = this.head;
@@ -114,7 +115,7 @@ class SinglyLinkedList{
     //So we are setting the first element to this variable 
     let current = this.head;
     
-    //Then we are setting the current head's next attribute to be the new head
+    //Then we are setting the old head's next attribute to be the new head
     this.head = current.next;
 
     //remove a element means decrementing it's length by 1
@@ -232,7 +233,8 @@ class SinglyLinkedList{
     //we'll get the pervious position of the index were we want to insert the element so we are using our get() to get element previous to the index provided
     let getNode = this.get(index-1)
 
-    /*we are setting the new element's next attribute to point to the element's next attribute 
+    /*
+    we are setting the new element's next attribute to point to the element's next attribute 
     for example:- 
     add "9" to index position 3 and we count index from zero so we need to add "9" between 3-4
 
@@ -247,9 +249,9 @@ class SinglyLinkedList{
               |
       9  ==>  4 
 
-    SO now "9" next attribute is point to "4", so we'll point "3" next attribute to new element i.e "9"  
+    So now "9" next attribute is point to "4", so we'll point "3" next attribute to new element i.e "9"  
 
-      3  ==>  4
+      3  ==>  9
 
     And and by summing  all that we'll get
 
@@ -286,10 +288,11 @@ class SinglyLinkedList{
     //if the user is trying to remove the element from the last of the list then we'll use our pop() function and we return the remove element
     if(index == 0) return this.shift()
 
-    //we'll get the pervious position of the index were we want to insert the element so we are using our get() to get element previous to the index provided
+    //we'll get the pervious position of the index were we want to remove the element so we are using our get() to get element previous to the index provided
     let getNode = this.get(index-1)
 
-    /*we are setting the element's next attribute to point to the element's next's next attribute 
+    /*
+    we are setting the element's next attribute to point to the element's next's next attribute 
     for example:- 
     remove index position 3rd's element and we count index from zero so we need to remove "9" from the list
 
