@@ -14,14 +14,13 @@ A brief description of Doubly Linked Lists in this readme file.
 **Almost** identical to Singly Linked Lists, except every node has **another** pointer, to the **previous** node!
 ## Doubly Linked Lists
 
-<h1 align='center>Photos, comming soon...</h1> 
-
+![image](https://user-images.githubusercontent.com/88912160/177185533-da42d2fe-3980-489a-90d0-edde82c73b05.png)
 
 ## Comparisons with Singly Linked Lists
 
-**More memory === More Flexibility**
-
+**More memory === More Flexibility** \
 It's **almost** always a tradeoff!
+
 ## PREREQUISITES
 
 This is the node class which will be used when we want to add a new element in the list
