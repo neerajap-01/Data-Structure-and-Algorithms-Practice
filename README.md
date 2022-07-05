@@ -69,7 +69,7 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
         - [**Remove**](Data%20Structures/Doubly%20Linked%20List/README.md#remove)
         - [**Reverse**](Data%20Structures/Doubly%20Linked%20List/README.md#reverse)
 
-    - [**Stacks**](Data%20Structures/Stacks/README.md#stacks)
+    - [**Queues**](Data%20Structures/Stacks/README.md#stacks)
 
         - [**PREREQUISITES**](Data%20Structures/Stacks/README.md#prerequisites)
         - [**Pushing**](Data%20Structures/Stacks/README.md#pushing)
