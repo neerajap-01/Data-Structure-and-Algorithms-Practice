@@ -16,7 +16,8 @@ A ***FIFO*** data structure!
 **F**irst **I**n **F**irst **O**ut
 ## How we'll visualize a queue
 
-<<<<<<<<<<<<<<COMMING SOON>>>>>>>>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/177288562-01ee3672-e6fd-4c3f-97ee-5c4d7712d486.png)
+
 ## WE'VE SEEN THIS BEFORE
 
 Queues exist everywhere! Think about the last time you waited in line....
