@@ -74,3 +74,9 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
         - [**PREREQUISITES**](Data%20Structures/Stacks/README.md#prerequisites)
         - [**Pushing**](Data%20Structures/Stacks/README.md#pushing)
         - [**Popping**](Data%20Structures/Stacks/README.md#pop)
+
+    - [**Stacks**](Data%20Structures/Queues/README.md#queues)
+
+        - [**PREREQUISITES**](Data%20Structures/Queues/README.md#prerequisites)
+        - [**Enqueue**](Data%20Structures/Queues/README.md#enqueue)
+        - [**Dequeue**](Data%20Structures/Queues/README.md#dequeue)
