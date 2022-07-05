@@ -21,8 +21,8 @@ Think about a stack of **plates**, or a stack of **markers**, or a stack of....*
 As you pile it up the last thing (or the topmost thing) is what gets removed first.
 ## How we'll visualize a stack
 
+![image](https://user-images.githubusercontent.com/88912160/177279960-cbfa4925-1606-4849-ba09-6e6dc7f6361d.png)
 
------------------COMMING SOON-------------------
 ## WE'VE SEEN THIS BEFORE
 
 ***The Call Stack!***
