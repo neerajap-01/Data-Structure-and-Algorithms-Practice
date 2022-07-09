@@ -809,7 +809,7 @@ var tree = new BinarySearchTree();
 
 Which is better? 🤔
 
-![which-to-use](https://user-images.githubusercontent.com/88912160/178098536-2f1cebb9-af87-449b-a5a7-cf917ebdb188.gif)
+![which-to-use](https://user-images.githubusercontent.com/88912160/178098588-e2e109ab-9126-4acd-bd31-e46935f061fc.gif)
 
 ## RECAP
 
