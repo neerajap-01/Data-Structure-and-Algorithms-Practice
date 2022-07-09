@@ -16,24 +16,16 @@ A brief description of Tree Data Structure in this readme file.
 
 <h2 align='center'>👩‍👦</h2>
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![trees](https://user-images.githubusercontent.com/88912160/178097479-2d3a9f0c-5751-4a63-aa43-625509a5b582.gif)
 
 Lists - **linear**
 
 Trees - **nonlinear**
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178097531-009eea13-6fa7-4c35-aa6a-ea2cfba631b8.png)
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![not-a-tree](https://user-images.githubusercontent.com/88912160/178097568-2a13e967-a8e5-46b0-9c38-220efd7b18c5.gif)
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
 ## TREE TERMINOLOGY
 
 - **Root** - The top node in a tree.
@@ -48,7 +40,8 @@ Trees - **nonlinear**
 - **Binary Trees**
 - **Binary Search Trees**
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178097608-e4420715-d07b-463f-86fa-ab4867f6d129.png)
+
 ## SIMPLE TREES
 
 Lots of different applications!
@@ -59,18 +52,24 @@ Lots of different applications!
 - Artificial Intelligence
 - Folders in Operating Systems
 - Computer File Systems
+- 
+<table>
+  <tr>
+    <td><h1 align="center">Folders in Operating Systems</h1></td>
+    <td><img src="https://user-images.githubusercontent.com/88912160/178097651-49e3479f-0611-427d-af3f-a06353145978.png" alt="" /></td>
+  </tr>
+  <tr>
+    <td><h1 align="center">HTML DOM</h1></td>
+    <td><img src="https://user-images.githubusercontent.com/88912160/178097692-48be621b-7ad5-4ad1-8257-0d95c6b03f9a.png" alt="" /></td>
+  </tr>
+  <tr>
+    <td><h1 align="center">Abstract Syntax Tree</h1></td>
+    <td><img src="https://user-images.githubusercontent.com/88912160/178097698-256208e9-c269-4cfa-bb9b-f3164ed36aec.png" alt="" /></td>
+  </tr>
+</table>
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![binary-tree-or-not](https://user-images.githubusercontent.com/88912160/178097779-a7efdfd6-463c-4dc5-96b1-edbf152f4a56.gif)
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
 ## BINARY TREES
 
 Lots of different applications as well!
@@ -79,18 +78,16 @@ Lots of different applications as well!
 - Database Indicies
 - Sorting Algorithms
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178097951-5426dab5-3c60-46ee-99b7-4ce644985f72.png)
+
 ## HOW BSTS WORK
 
 - Every parent node has at most **two** children
 - Every node to the left of a parent node is **always less** than the parent
 - Every node to the right of a parent node is **always greater** than the parent
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![is-it-valid](https://user-images.githubusercontent.com/88912160/178098006-5a7783fb-0900-4735-8197-0fe56cec9fd5.gif)
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
 ## The BinarySearchTree Class
 
 ```
@@ -111,8 +108,9 @@ class BinarySearchTree {
 }
 ```
 
-<<<<<<<<<<COMMING SOON GIF>>>>>>>>>>
 ## INSERTING A NODE
+
+![inserting](https://user-images.githubusercontent.com/88912160/178098070-5dad06bd-47b7-4287-ae8f-e76b57fe339c.gif)
 
 **Steps - Iteratively or Recursively**
 
@@ -285,19 +283,19 @@ Searching - **O(log n)**
 
 **NOT guaranteed!**
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178098113-7df900e6-d424-499c-80ff-894217236c54.png)
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178098126-575be725-3b20-4529-8e5d-fa3d78b52180.png)
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+## THIS IS A VALID BINARY SEARCH TREE
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178098143-3013d095-1d79-4849-922c-8a434a32e158.png)
+
 ## TREE TRAVERSAL
 
-<<<<<<<<<COMMING SOON>>>>>>>>>>
+### VISIT EVERY NODE ONCE
+![image](https://user-images.githubusercontent.com/88912160/178098176-80fe9d7e-c122-4027-839c-2ae25ce25402.png)
 
-<<<<<<<<<COMMING SOON>>>>>>>>>>
 ## TRAVERSING A TREE
 
 **Two ways:**
@@ -305,8 +303,8 @@ Searching - **O(log n)**
 - Breadth-first Search
 - Depth-first Search
 ## BREADTH  FIRST SEARCH
+![image](https://user-images.githubusercontent.com/88912160/178098198-0ba83cb7-4765-4b43-bddd-5c83ee497490.png)
 
-<<<<<<<<<<COMMING SOON>>>>>>>>>>
 ## BFS
 
 **Steps - Iteratively**
@@ -418,7 +416,7 @@ var tree = new BinarySearchTree();
 
 ## DFS - PreOrder
 
-<<<<<<<<<<COMMING SOON GIF>>>>>>>>>>
+![dfs-preorder](https://user-images.githubusercontent.com/88912160/178098356-f3df07fe-419f-4dac-a23c-5018eab8a509.gif)
 
 **Steps - Recursively**
 
@@ -538,7 +536,7 @@ var tree = new BinarySearchTree();
 ```
 ## DFS - PostOrder
 
-<<<<<<<<<<COMMING SOON GIF>>>>>>>>>>
+![dfs-postorder](https://user-images.githubusercontent.com/88912160/178098388-16d9677b-7340-4a4e-baef-c1e181b1d7d3.gif)
 
 **Steps - Recursively**
 
@@ -669,7 +667,7 @@ var tree = new BinarySearchTree();
 ```
 ## DFS - InOrder
 
-<<<<<<<<<<COMMING SOON GIF>>>>>>>>>>
+![dfs-inorder](https://user-images.githubusercontent.com/88912160/178098302-9afa87b6-a485-4376-b9ea-5b4af97988ac.gif)
 
 **Steps - Recursively**
 
@@ -810,6 +808,9 @@ var tree = new BinarySearchTree();
 ## BFS? DFS?
 
 Which is better? 🤔
+
+![which-to-use](https://user-images.githubusercontent.com/88912160/178098536-2f1cebb9-af87-449b-a5a7-cf917ebdb188.gif)
+
 ## RECAP
 
 - Trees are non-linear data structures that contain a root and child nodes
