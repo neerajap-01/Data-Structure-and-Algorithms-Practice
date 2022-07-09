@@ -44,12 +44,12 @@ Trees - **nonlinear**
 - **Edge** - The connection between one node and another.
 ## KINDS OF TREES
 
-- **Trees**
+- **Simple Trees**
 - **Binary Trees**
 - **Binary Search Trees**
 
 <<<<<<<<<<COMMING SOON>>>>>>>>>>
-## TREES
+## SIMPLE TREES
 
 Lots of different applications!
 

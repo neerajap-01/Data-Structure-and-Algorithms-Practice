@@ -80,3 +80,15 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
         - [**PREREQUISITES**](Data%20Structures/Queues/README.md#prerequisites)
         - [**Enqueue**](Data%20Structures/Queues/README.md#enqueue)
         - [**Dequeue**](Data%20Structures/Queues/README.md#dequeue)
+
+    - [**Trees**](Data%20Structures/Trees/README.md#trees)
+
+        - [**Simple Trees**](Data%20Structures/Trees/README.md#simple-trees)
+        - [**Binary Trees**](Data%20Structures/Trees/README.md#binary-trees)
+        - [**Binary Search Trees**](Data%20Structures/Trees/README.md#binary-search-trees)
+
+            -[**BREADTH  FIRST SEARCH**](Data%20Structures/Trees/README.md#breadth-first-search)
+            -[**DEPTH  FIRST SEARCH**](Data%20Structures/Trees/README.md#depth-first-search)
+                -[**DFS - PostOrder**](Data%20Structures/Trees/README.md#dfs---postorder)
+                -[**DFS - PreOrder**](Data%20Structures/Trees/README.md#dfs---preorder)
+                -[**DFS - InOrder**](Data%20Structures/Trees/README.md#dfs---inorder)
