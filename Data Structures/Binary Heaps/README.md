@@ -17,7 +17,8 @@ A brief description of Tree Data Structure in this readme file.
 In a **MaxBinaryHeap**, parent nodes are always larger than child nodes. In a **MinBinaryHeap**, parent nodes are always smaller than child nodes
 ## WHAT DOES IT LOOK LIKE?
 
-<<<<<<<<COMMING SOON GIF>>>>>>>>
+![Not-a-binary-heap](https://user-images.githubusercontent.com/88912160/178973473-f31df6ee-533d-4e25-9be0-0d5139628dc6.gif)
+
 ## MAX BINARY HEAP
 
 - Each parent has at most two child nodes
@@ -25,9 +26,11 @@ In a **MaxBinaryHeap**, parent nodes are always larger than child nodes. In a **
 - In a max Binary Heap the parent is greater than the children, but there are no guarantees between sibling nodes.
 - A binary heap is as compact as possible. All the children of each node are as full as they can be and left children are filled out first
 
-<<<<<GIF>>>>>
+![tree-representation](https://user-images.githubusercontent.com/88912160/178973696-302f1737-ec93-40e3-aea2-7b9178233a40.gif)
 
-<<<<<Image>>>>>
+### A MIN BINARY HEAP
+![image](https://user-images.githubusercontent.com/88912160/178973839-7f64a1ec-5b67-4734-a405-11d427e911ef.png)
+
 ## Why do we need to know this?
 
 Binary Heaps are used to implement Priority Queues, which are **very** commonly used data structures
@@ -36,29 +39,31 @@ They are also used quite a bit, with **graph traversal** algorithms
 
 ***We'll come back to this!***
 
-<<<<<<<<Image>>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178973975-2aa2d59e-57c7-47e4-9b55-50b97680ab67.png)
+
 ### THERE'S AN EASY WAY OF STORING A BINARY HEAP...
 
 ***A LIST/ARRAY***
 
-<<<<<GIF>>>>>
+![representing-a-heap](https://user-images.githubusercontent.com/88912160/178974529-2834f988-c414-4dcf-a5d5-0a1ae4f36a84.gif)
 
 For any index of an array ***n***...
 
 - The left child is stored at **2n + 1**
 - The right child is at **2n + 2**
 
-<<Image for Formula>>
+![image](https://user-images.githubusercontent.com/88912160/178974630-b4c5e0f8-9193-48fd-a836-361b181a57d3.png)
+
 ## WHAT IF WE HAVE A CHILD NODE AND WANT TO FIND ITS PARENT?
 
-<<<<<<<GIF>>>>>>>
-
+![represent-a-parent-node](https://user-images.githubusercontent.com/88912160/178975057-0f902129-2e11-4289-8455-9030cd5a5c2b.gif)
 
 For any child node at index  ***n***...
 
 - Its parent is at index **(n-1)/2**
 
-<<<<<<<Image formula>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178975200-1b3306cc-ccbc-4482-865f-5cf78fca1656.png)
+
 ## DEFINING OUR CLASS
 
 ```
@@ -73,7 +78,8 @@ class MaxBinaryHeap{
 - Add to the end
 - Bubble up
 
-<<<<<<GIF>>>>>>
+![insert](https://user-images.githubusercontent.com/88912160/178975651-836fb6ad-0e2d-452f-8bd3-a608c8a49dcd.gif)
+
 ## INSERT PSEUDOCODE
 
 - Push the value into the values property on the heap
@@ -130,7 +136,8 @@ let heap = new MaxBinaryHeap()
 
 The procedure for deleting the root from the heap (effectively extracting the maximum element in a max-heap or the minimum element in a min-heap) and restoring the properties is called down-heap (also known as ***bubble-down, percolate-down, sift-down, trickle down, heapify-down, cascade-down, and extract-min/max***).
 
-<<<<GIF>>>>
+![remove](https://user-images.githubusercontent.com/88912160/178976063-d7031c81-cba9-4cca-8ef7-d130d6c0a3dc.gif)
+
 ## REMOVING PSEUDOCODE
 <p align='center>(also called extractMax)</p>
 
@@ -225,12 +232,11 @@ A data structure where each element has a priority. Elements with higher priorit
 
 Use a list to store all elements
 
-<<<<<<BOX IMAGE>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178976256-d7e8d7c0-239f-4ba1-9256-fe1b8a9a105d.png)
 
 Iterate over the entire thing to find the highest priority element.
 
-<<<<<<GIF>>>>>>
-
+![priority-queue](https://user-images.githubusercontent.com/88912160/178976554-5187cbe0-c1f9-4ce0-8563-5da4789455e7.gif)
 
 ## DEFINING OUR CLASS
 
@@ -259,7 +265,8 @@ Val doesn't matter.
 
 Heap is constructed ***using Priority***
 
-<<<<<<IMAGE>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178976658-6f1433cc-ea1f-40c2-84b6-2b8145790201.png)
+   
 ## OUR PRIORITY QUEUE
 
 - Write a Min Binary Heap - lower number means higher priority.
@@ -369,7 +376,8 @@ We can sort an array in **O(n log n)** time and **O(1)** space by making it a he
 
 **Same idea, min values go upwards**
 
-<<<<<<<Image>>>>>>>
+![image](https://user-images.githubusercontent.com/88912160/178976838-6b4e1b71-e44b-4f9e-bd6f-c767c5ff0ea7.png)
+
 ## Big O of Binary Heaps
 
 Insertion -   **O(log N)**
@@ -381,12 +389,14 @@ Search -   **O(N)**
 
 **Suppose we wanted to insert 200**
 
-<<<<<<<<GIF>>>>>>>>
+![why-long(n)](https://user-images.githubusercontent.com/88912160/178977232-dd0ca93b-b030-408c-95cf-29de88dac69e.gif)
+
 ## WHAT ABOUT WORST CASE?
 
 **REMEMBER THIS DEPRESSING TREE?**
 
-<<<<<<<<<<<<<GIF>>>>>>>>>>>>>
+![worst-case](https://user-images.githubusercontent.com/88912160/178977554-d826310f-56ee-4122-8151-e2fc1e5e3083.gif)
+
 ## RECAP
 
 - Binary Heaps are very useful data structures for sorting, and implementing other data structures like priority queues
