@@ -304,7 +304,7 @@ Searching - **O(log n)**
 - Depth-first Search
 ## BREADTH  FIRST SEARCH
 ![image](https://user-images.githubusercontent.com/88912160/178098198-0ba83cb7-4765-4b43-bddd-5c83ee497490.png)
-
+Binary Heaps
 ## BFS
 
 **Steps - Iteratively**

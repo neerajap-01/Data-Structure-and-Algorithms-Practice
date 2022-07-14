@@ -92,3 +92,11 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
                 - [**DFS - PostOrder**](Data%20Structures/Trees/README.md#dfs---postorder)
                 - [**DFS - PreOrder**](Data%20Structures/Trees/README.md#dfs---preorder)
                 - [**DFS - InOrder**](Data%20Structures/Trees/README.md#dfs---inorder)
+
+    - [**Binary Heaps**](Data%20Structures/Binary%20Heaps/README.md#binary-heaps) 
+
+        - [**Insert**](Data%20Structures/Binary%20Heaps/README.md#adding-to-a-maxbinaryheap)         
+        - [**Removing**](Data%20Structures/Binary%20Heaps/README.md#removing-from-a-heap)         
+        - [**Priority Queue**](Data%20Structures/Binary%20Heaps/README.md#building-a-priority-queue) 
+            
+            - [**Priority Queue Peseudocode**](Data%20Structures/Binary%20Heaps/README.md#our-priority-queue)     
