@@ -32,7 +32,8 @@ Because of their speed, hash tables are very commonly used!
 
 *Objects have some restrictions, but are basically hash tables
 
-<<<<<<<<GIF>>>>>>>>
+![lets-pretend](https://user-images.githubusercontent.com/88912160/179247048-162b8355-c149-4fef-9909-262d5c4bb615.gif)
+
 ## HASH TABLES
 
 Introductory Example
@@ -73,7 +74,8 @@ In order to look up values by key, we need a way to ***convert keys into valid a
 
 A function that performs this task is called a ***hash function***.
 
-<<<<<<<<<<GIF>>>>>>>>>>
+![hashing](https://user-images.githubusercontent.com/88912160/179247948-4aa67682-0636-4598-9361-b61e3802f98c.gif)
+
 ## WHAT MAKES A GOOD HASH?
 (not a cryptographically secure one)
 
@@ -193,7 +195,7 @@ With separate chaining, at each index in our array we store values using a more 
 
 This allows us to store multiple key-value pairs at the same index.
 
-<<<<<<<GIF>>>>>>>
+![separate-chaining](https://user-images.githubusercontent.com/88912160/179248741-99eb0b57-beb0-41dc-9e65-3eea814e5c71.gif)
 
 ### Linear Probing
 
@@ -201,7 +203,8 @@ With linear probing, when we find a collision, we search through the array to fi
 
 Unlike with separate chaining, this allows us to store a single key-value at each index.
 
-<<<<<<<GIF>>>>>>>
+![linear-probing](https://user-images.githubusercontent.com/88912160/179248970-f833a27b-e629-46c8-b2d5-e0f3c4af90e1.gif)
+
 ## A HashTable Class
 
 ```
@@ -433,11 +436,12 @@ Access: **O(1)**
 
 ## A good hash function
 
-<<<<<<GIF>>>>>>
+![good-hash](https://user-images.githubusercontent.com/88912160/179249209-936d0542-a217-4904-8d42-0f1ba97d6bef.gif)
 
 ## With the world's worst hash function...
 
-<<<<<<GIF>>>>>>
+![worst-hash](https://user-images.githubusercontent.com/88912160/179249386-2912518a-d13a-4343-91b7-8c3157c4e042.gif)
+
 ## Recap
 
 - Hash tables are collections of key-value pairs
