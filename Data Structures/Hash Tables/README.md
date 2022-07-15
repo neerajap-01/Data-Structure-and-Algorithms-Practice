@@ -1,7 +1,7 @@
 
 # HASH TABLES
 
-AA brief description of HASH TABLES Data Structure in this readme file.
+A brief description of HASH TABLES Data Structure in this readme file.
 
 
 ## OBJECTIVES
