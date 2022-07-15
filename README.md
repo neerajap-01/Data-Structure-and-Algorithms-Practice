@@ -100,4 +100,12 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
         - [**Removing**](Data%20Structures/Binary%20Heaps/README.md#removing-from-a-heap)         
         - [**Priority Queue**](Data%20Structures/Binary%20Heaps/README.md#building-a-priority-queue) 
             
-            - [**Priority Queue Peseudocode**](Data%20Structures/Binary%20Heaps/README.md#our-priority-queue)     
+            - [**Priority Queue Peseudocode**](Data%20Structures/Binary%20Heaps/README.md#our-priority-queue)
+
+    - [**Hash Tables**](Data%20Structures/Hash%20Tables/README.md#hash-tables)
+
+        - [**A HashTable Class**](Data%20Structures/Hash%20Tables/README.md#a-hashTable-class)
+        - [**Set**](Data%20Structures/Hash%20Tables/README.md#set)
+        - [**Get**](Data%20Structures/Hash%20Tables/README.md#get)
+        - [**Keys**](Data%20Structures/Hash%20Tables/README.md#keys)
+        - [**Values**](Data%20Structures/Hash%20Tables/README.md#values)
