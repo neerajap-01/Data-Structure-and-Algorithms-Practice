@@ -52,7 +52,7 @@ Lots of different applications!
 - Artificial Intelligence
 - Folders in Operating Systems
 - Computer File Systems
-- 
+
 <table>
   <tr>
     <td><h1 align="center">Folders in Operating Systems</h1></td>
