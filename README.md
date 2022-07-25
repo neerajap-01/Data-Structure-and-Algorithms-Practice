@@ -109,3 +109,25 @@ This repo will consist of the code and some info on learning of DS Algo in JAVAS
         - [**Get**](Data%20Structures/Hash%20Tables/README.md#get)
         - [**Keys**](Data%20Structures/Hash%20Tables/README.md#keys)
         - [**Values**](Data%20Structures/Hash%20Tables/README.md#values)
+
+    - [**Graphs**](Data%20Structures/Graphs/README.md#graphs)
+
+        - [**Graph Class**](Data%20Structures/Graphs/README.md#our-graph-class)
+        - [**Adding a Vertex**](Data%20Structures/Graphs/README.md#adding-a-vertex)
+        - [**Adding an Edge**](Data%20Structures/Graphs/README.md#adding-an-edge)
+        - [**Removing an Edge**](Data%20Structures/Graphs/README.md#removing-an-edge)
+        - [**Removing a Vertex**](Data%20Structures/Graphs/README.md#removing-a-vertex)    
+        - [**Depth First Search(DFS) - Recursion**](Data%20Structures/Graphs/README.md#depth-first)    
+        - [**Depth First Search(DFS) - Iterative**](Data%20Structures/Graphs/README.md#dfs-pseudocode-iterative)    
+        - [**Breadth First Search(BFS)**](Data%20Structures/Graphs/README.md#breadth-first)  
+
+    - [**Dijkstra's Algorithm**](Data%20Structures/Graphs/Dijkstra's%20Algorithm/README.md#dijkstra's-Algorithm)
+
+        - [**Naive Approach**](Data%20Structures/Graphs/Dijkstra's%20Algorithm/README.md#a-simple-pq)
+        - [**Better Approach**](Data%20Structures/Graphs/Dijkstra's%20Algorithm/README.md#improving-dijkstra's)
+
+    - [**Dynamic Programming**](Data%20Structures/Dynamic%20Programming/README.md#dynamic-programming)
+
+        - [**Overlapping Subproblems**](Data%20Structures/Dynamic%20Programming/README.md#overlapping-subproblems)
+        - [**Optimal Structure**](Data%20Structures/Dynamic%20Programming/README.md#optimal-structure)
+        
